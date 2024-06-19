@@ -1,0 +1,1 @@
+Execute o troll.bat na Área de Trabalho da vítima e espere ela clicar nos arquivos... Boa Sorte!
